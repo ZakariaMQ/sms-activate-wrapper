@@ -12,7 +12,8 @@ A Python wrapper for the [SMSActivate.io](https://bit.ly/email-activation) Email
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Usage](#usage)
-- 
+
+
 ## Installation
 
 First, ensure you have Python 3.7 or later installed. Then, install the required dependencies using pip:
